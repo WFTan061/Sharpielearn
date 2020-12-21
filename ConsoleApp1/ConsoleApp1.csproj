@@ -8,8 +8,10 @@
   <ItemGroup>
     <Compile Remove="ArrayAndFor.cs" />
     <Compile Remove="Class1.cs" />
+    <Compile Remove="DateTimePlay.cs" />
     <Compile Remove="Decisions.cs" />
     <Compile Remove="Declarations.cs" />
+    <Compile Remove="FileStreamTest.cs" />
     <Compile Remove="HelperMethods.cs" />
     <Compile Remove="Program.cs" />
   </ItemGroup>
@@ -17,8 +19,10 @@
   <ItemGroup>
     <None Include="ArrayAndFor.cs" />
     <None Include="Class1.cs" />
+    <None Include="DateTimePlay.cs" />
     <None Include="Decisions.cs" />
     <None Include="Declarations.cs" />
+    <None Include="FileStreamTest.cs" />
     <None Include="HelperMethods.cs" />
     <None Include="Program.cs" />
   </ItemGroup>
